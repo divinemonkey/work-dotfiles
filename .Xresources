@@ -1,0 +1,16 @@
+URxvt*.depth: 32
+!URxvt.font: xft:Inconsolata for Powerline:regular:size=9
+!URxvt.font: xft:Hack:Inconsolata regular:pixelsize=11:antialias=true
+URxvt.font: xft:DejavuSansMono:bold:size=8
+
+Xft.dpi: 96
+Xft.autohint: 1
+Xft.antialias: true
+Xft.rgba: rgb
+Xft.hinting: true
+Xft.hintstyle: hintslight
+Xft.lcdfilter: lcddefault
+
+URxvt.scrollBar: false
+
+URxvt.internalBorder: 10
