@@ -117,8 +117,6 @@ alias strat2='ssh strat2'
 alias strat3='ssh strat3'
 alias strat4='ssh strat4'
 alias mics='ssh mics'
-alias db.humanoo='ssh root@83.169.19.72'
-alias t3='ssh root@46.163.116.243'
 
 # Keymapping
 alias us='setxkbmap us'
