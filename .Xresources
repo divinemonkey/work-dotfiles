@@ -13,4 +13,4 @@ Xft.lcdfilter: lcddefault
 
 URxvt.scrollBar: false
 
-URxvt.internalBorder: 10
+URxvt.internalBorder: 20
